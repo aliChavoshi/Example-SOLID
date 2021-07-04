@@ -1,0 +1,13 @@
+C:\Users\ac4136\Google Drive\Developer\C# Learning\SOLID\Single Responsibility Principle\Making the Code Even Better\bin\Debug\netcoreapp3.1\Making the Code Even Better.exe
+C:\Users\ac4136\Google Drive\Developer\C# Learning\SOLID\Single Responsibility Principle\Making the Code Even Better\bin\Debug\netcoreapp3.1\Making the Code Even Better.deps.json
+C:\Users\ac4136\Google Drive\Developer\C# Learning\SOLID\Single Responsibility Principle\Making the Code Even Better\bin\Debug\netcoreapp3.1\Making the Code Even Better.runtimeconfig.json
+C:\Users\ac4136\Google Drive\Developer\C# Learning\SOLID\Single Responsibility Principle\Making the Code Even Better\bin\Debug\netcoreapp3.1\Making the Code Even Better.runtimeconfig.dev.json
+C:\Users\ac4136\Google Drive\Developer\C# Learning\SOLID\Single Responsibility Principle\Making the Code Even Better\bin\Debug\netcoreapp3.1\Making the Code Even Better.dll
+C:\Users\ac4136\Google Drive\Developer\C# Learning\SOLID\Single Responsibility Principle\Making the Code Even Better\bin\Debug\netcoreapp3.1\Making the Code Even Better.pdb
+C:\Users\ac4136\Google Drive\Developer\C# Learning\SOLID\Single Responsibility Principle\Making the Code Even Better\obj\Debug\netcoreapp3.1\Making the Code Even Better.csprojAssemblyReference.cache
+C:\Users\ac4136\Google Drive\Developer\C# Learning\SOLID\Single Responsibility Principle\Making the Code Even Better\obj\Debug\netcoreapp3.1\Making the Code Even Better.AssemblyInfoInputs.cache
+C:\Users\ac4136\Google Drive\Developer\C# Learning\SOLID\Single Responsibility Principle\Making the Code Even Better\obj\Debug\netcoreapp3.1\Making the Code Even Better.AssemblyInfo.cs
+C:\Users\ac4136\Google Drive\Developer\C# Learning\SOLID\Single Responsibility Principle\Making the Code Even Better\obj\Debug\netcoreapp3.1\Making the Code Even Better.csproj.CoreCompileInputs.cache
+C:\Users\ac4136\Google Drive\Developer\C# Learning\SOLID\Single Responsibility Principle\Making the Code Even Better\obj\Debug\netcoreapp3.1\Making the Code Even Better.dll
+C:\Users\ac4136\Google Drive\Developer\C# Learning\SOLID\Single Responsibility Principle\Making the Code Even Better\obj\Debug\netcoreapp3.1\Making the Code Even Better.pdb
+C:\Users\ac4136\Google Drive\Developer\C# Learning\SOLID\Single Responsibility Principle\Making the Code Even Better\obj\Debug\netcoreapp3.1\Making the Code Even Better.genruntimeconfig.cache

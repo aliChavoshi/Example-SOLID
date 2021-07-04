@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<ArrayOfArrayOfArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ArrayOfArrayOfString>
+    <ArrayOfString>
+      <string>C:\Users\ac4136\Google Drive\Developer\C# Learning\SOLID\Dependency Injection\Dependency Injection\Dependency Injection\Models\Player.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\Users\ac4136\Google Drive\Developer\C# Learning\SOLID\Dependency Injection\Dependency Injection\Dependency Injection\Controllers\HomeController.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\Users\ac4136\Google Drive\Developer\C# Learning\SOLID\Dependency Injection\Dependency Injection\Dependency Injection\Views\Game\Index.cshtml</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\Users\ac4136\Google Drive\Developer\C# Learning\SOLID\Dependency Injection\Dependency Injection\Dependency Injection\Services\IPlayerGenerator.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\Users\ac4136\Google Drive\Developer\C# Learning\SOLID\Dependency Injection\Dependency Injection\Dependency Injection\Startup.cs</string>
+    </ArrayOfString>
+  </ArrayOfArrayOfString>
+</ArrayOfArrayOfArrayOfString>

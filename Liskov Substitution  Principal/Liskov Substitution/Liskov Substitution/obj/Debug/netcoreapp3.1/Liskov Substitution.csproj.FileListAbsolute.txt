@@ -1,0 +1,13 @@
+C:\Users\ac4136\Google Drive\Developer\C# Learning\SOLID\Liskov Substitution  Principal\Liskov Substitution\Liskov Substitution\bin\Debug\netcoreapp3.1\Liskov Substitution.exe
+C:\Users\ac4136\Google Drive\Developer\C# Learning\SOLID\Liskov Substitution  Principal\Liskov Substitution\Liskov Substitution\bin\Debug\netcoreapp3.1\Liskov Substitution.deps.json
+C:\Users\ac4136\Google Drive\Developer\C# Learning\SOLID\Liskov Substitution  Principal\Liskov Substitution\Liskov Substitution\bin\Debug\netcoreapp3.1\Liskov Substitution.runtimeconfig.json
+C:\Users\ac4136\Google Drive\Developer\C# Learning\SOLID\Liskov Substitution  Principal\Liskov Substitution\Liskov Substitution\bin\Debug\netcoreapp3.1\Liskov Substitution.runtimeconfig.dev.json
+C:\Users\ac4136\Google Drive\Developer\C# Learning\SOLID\Liskov Substitution  Principal\Liskov Substitution\Liskov Substitution\bin\Debug\netcoreapp3.1\Liskov Substitution.dll
+C:\Users\ac4136\Google Drive\Developer\C# Learning\SOLID\Liskov Substitution  Principal\Liskov Substitution\Liskov Substitution\bin\Debug\netcoreapp3.1\Liskov Substitution.pdb
+C:\Users\ac4136\Google Drive\Developer\C# Learning\SOLID\Liskov Substitution  Principal\Liskov Substitution\Liskov Substitution\obj\Debug\netcoreapp3.1\Liskov Substitution.csprojAssemblyReference.cache
+C:\Users\ac4136\Google Drive\Developer\C# Learning\SOLID\Liskov Substitution  Principal\Liskov Substitution\Liskov Substitution\obj\Debug\netcoreapp3.1\Liskov Substitution.AssemblyInfoInputs.cache
+C:\Users\ac4136\Google Drive\Developer\C# Learning\SOLID\Liskov Substitution  Principal\Liskov Substitution\Liskov Substitution\obj\Debug\netcoreapp3.1\Liskov Substitution.AssemblyInfo.cs
+C:\Users\ac4136\Google Drive\Developer\C# Learning\SOLID\Liskov Substitution  Principal\Liskov Substitution\Liskov Substitution\obj\Debug\netcoreapp3.1\Liskov Substitution.csproj.CoreCompileInputs.cache
+C:\Users\ac4136\Google Drive\Developer\C# Learning\SOLID\Liskov Substitution  Principal\Liskov Substitution\Liskov Substitution\obj\Debug\netcoreapp3.1\Liskov Substitution.dll
+C:\Users\ac4136\Google Drive\Developer\C# Learning\SOLID\Liskov Substitution  Principal\Liskov Substitution\Liskov Substitution\obj\Debug\netcoreapp3.1\Liskov Substitution.pdb
+C:\Users\ac4136\Google Drive\Developer\C# Learning\SOLID\Liskov Substitution  Principal\Liskov Substitution\Liskov Substitution\obj\Debug\netcoreapp3.1\Liskov Substitution.genruntimeconfig.cache

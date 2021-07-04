@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Making the Code Even Better/1.0.0": {
+        "runtime": {
+          "Making the Code Even Better.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Making the Code Even Better/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

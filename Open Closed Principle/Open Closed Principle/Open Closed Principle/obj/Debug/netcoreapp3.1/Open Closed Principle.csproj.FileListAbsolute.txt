@@ -1,0 +1,13 @@
+C:\Users\ac4136\Google Drive\Developer\C# Learning\SOLID\Open Closed Principle\Open Closed Principle\Open Closed Principle\bin\Debug\netcoreapp3.1\Open Closed Principle.exe
+C:\Users\ac4136\Google Drive\Developer\C# Learning\SOLID\Open Closed Principle\Open Closed Principle\Open Closed Principle\bin\Debug\netcoreapp3.1\Open Closed Principle.deps.json
+C:\Users\ac4136\Google Drive\Developer\C# Learning\SOLID\Open Closed Principle\Open Closed Principle\Open Closed Principle\bin\Debug\netcoreapp3.1\Open Closed Principle.runtimeconfig.json
+C:\Users\ac4136\Google Drive\Developer\C# Learning\SOLID\Open Closed Principle\Open Closed Principle\Open Closed Principle\bin\Debug\netcoreapp3.1\Open Closed Principle.runtimeconfig.dev.json
+C:\Users\ac4136\Google Drive\Developer\C# Learning\SOLID\Open Closed Principle\Open Closed Principle\Open Closed Principle\bin\Debug\netcoreapp3.1\Open Closed Principle.dll
+C:\Users\ac4136\Google Drive\Developer\C# Learning\SOLID\Open Closed Principle\Open Closed Principle\Open Closed Principle\bin\Debug\netcoreapp3.1\Open Closed Principle.pdb
+C:\Users\ac4136\Google Drive\Developer\C# Learning\SOLID\Open Closed Principle\Open Closed Principle\Open Closed Principle\obj\Debug\netcoreapp3.1\Open Closed Principle.csprojAssemblyReference.cache
+C:\Users\ac4136\Google Drive\Developer\C# Learning\SOLID\Open Closed Principle\Open Closed Principle\Open Closed Principle\obj\Debug\netcoreapp3.1\Open Closed Principle.AssemblyInfoInputs.cache
+C:\Users\ac4136\Google Drive\Developer\C# Learning\SOLID\Open Closed Principle\Open Closed Principle\Open Closed Principle\obj\Debug\netcoreapp3.1\Open Closed Principle.AssemblyInfo.cs
+C:\Users\ac4136\Google Drive\Developer\C# Learning\SOLID\Open Closed Principle\Open Closed Principle\Open Closed Principle\obj\Debug\netcoreapp3.1\Open Closed Principle.csproj.CoreCompileInputs.cache
+C:\Users\ac4136\Google Drive\Developer\C# Learning\SOLID\Open Closed Principle\Open Closed Principle\Open Closed Principle\obj\Debug\netcoreapp3.1\Open Closed Principle.dll
+C:\Users\ac4136\Google Drive\Developer\C# Learning\SOLID\Open Closed Principle\Open Closed Principle\Open Closed Principle\obj\Debug\netcoreapp3.1\Open Closed Principle.pdb
+C:\Users\ac4136\Google Drive\Developer\C# Learning\SOLID\Open Closed Principle\Open Closed Principle\Open Closed Principle\obj\Debug\netcoreapp3.1\Open Closed Principle.genruntimeconfig.cache
